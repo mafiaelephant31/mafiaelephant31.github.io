@@ -1,0 +1,21 @@
+body{
+    background-color: blue;
+}
+form{
+    background-color: brown;
+    width: 50%;
+    margin:auto;
+    margin-top: 100px;
+    padding: 15px;
+    border-radius: 50px;
+    }
+    #icons i{
+        color:#fff;
+        background-color: crimson;
+        padding: 5px;
+    }
+     
+    .input i{
+        color: darkgray;
+        padding: 15px;
+    }

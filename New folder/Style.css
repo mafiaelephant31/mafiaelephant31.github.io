@@ -1,0 +1,21 @@
+body{
+    background-color: blue;
+}
+form{
+    background-color: rgb(255, 0, 0);
+    width: 500px;
+    padding: 20px;
+    border-radius: 15px;
+}
+h3{
+    color: rgb(0, 0, 0);
+}
+i{
+color: rgb(255, 0, 0);
+}
+ input{
+     display: block;
+    width: 350 px;
+border-radius: 15 px;
+border:rgb(255, 0, 0)
+ }

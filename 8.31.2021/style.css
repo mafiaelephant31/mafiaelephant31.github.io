@@ -1,0 +1,63 @@
+nav{
+    color: darkslategray;
+    padding: 40px;
+    background-color: dodgerblue;
+}
+ul li{
+display: inline-block;
+list-style-type: none;
+margin-right: 15px;
+}
+nav button{
+    background-color: firebrick;
+    border: none;
+    outline: none;
+    color: floralwhite;
+    padding: 5px 15px;
+    border: 10px;
+}
+header{
+    height: 600px;
+    background-image;
+}
+#top-nav{
+    background-color: chartreuse;
+    color: cornsilk;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+   
+
+}
+#top-nav ul li{
+    display: inline-block;
+    padding: 5px;
+}
+#welovedogs {
+    background-color: darkslategrey;
+}
+#lovedogbro{
+    background-color: brown;
+}
+#husky{
+    background-color: darkblue;
+}
+#kangal{
+    background-color: darkkhaki;
+}
+#body{
+    background-color: darkorange;
+}
+#it{
+    background-color: darkturquoise;
+}
+#dogo{
+    background-color: crimson;
+}
+header{
+    height: 450px;
+    background-image: url("./download\ \(10\).jpg");
+    background-size: 100% 100%;
+    
+}
